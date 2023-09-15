@@ -1,13 +1,7 @@
 theme: primer
 title: j2c6
 description: j2c6 is a blog
-
-
-# A list of tasty fruits
-- Apple
-- Orange
-- Strawberry
-- Mango
-
-links:
+remote_theme: pages-themes/primer@v0.2.0
+plugins:
+- jekyll-remote-them
   
