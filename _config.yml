@@ -1,3 +1,13 @@
 theme: jekyll-theme-minimal
 title: j2c6
 description: j2c6 is a blog
+
+
+# A list of tasty fruits
+- Apple
+- Orange
+- Strawberry
+- Mango
+
+links:
+  
