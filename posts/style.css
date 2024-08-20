@@ -18,16 +18,14 @@ font-size: 14px;
   text-decoration: none;
 }
 
-/* Fake image */
-.fakeimg {
-  background-color: #aaa;
-  width: 100%;
-  padding: 20px;
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 /* Add a card effect for articles */
 .card {
    background-color: white;
-   padding: auto;
-   margin-top: auto;
+   padding: 6px;
+   margin-top: auto;;
 }
